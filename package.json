@@ -10,7 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
     "@fortawesome/fontawesome-free": "^6.1.1",
+=======
+>>>>>>> parent of d7817b2 (add icons and animate)
     "bootstrap": "^5.1.3"
   }
 }
